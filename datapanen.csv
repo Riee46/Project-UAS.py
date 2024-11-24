@@ -1,0 +1,73 @@
+[
+    {
+        "nama hasil panen": "sayuran sawi",
+        "kode Pengiriman": [
+            "Sidoarjo : 00001-W",
+            "Jember : 00002-P",
+            "Banyuwangi : 00003-P",
+            "Surabaya : 00004-L",
+            "Jakarta : 00005-B"
+        ],
+        "sayuran dikirim": [
+            "Sidoarjo : 00001-W"
+        ]
+    },
+    {
+        "nama hasil panen": "sayuran tomat",
+        "kode Pengiriman": [
+            "Malang : 10001-N",
+            "Bogor : 10002-F"
+        ],
+        "sayuran dikirim": []
+    },
+    {
+        "nama hasil panen": "sayuran timun",
+        "kode Pengiriman": [
+            "Bali : 20001-DK"
+        ],
+        "sayuran dikirim": []
+    },
+    {
+        "nama hasil panen": "sayuran cabe",
+        "kode Pengiriman": [
+            "Banyumas : 30001-R",
+            "Cilacap : 30002-R",
+            "Purbalingga : 30003-R"
+        ],
+        "sayuran dikirim": []
+    },
+    {
+        "nama hasil panen": "sayuran bawang merah",
+        "kode Pengiriman": [
+            "Cepu : 40001-K",
+            "Pati: 40002-K",
+            "Kudus : 40003-K",
+            "Jepara : 40004-K"
+        ],
+        "sayuran dikirim": []
+    },
+    {
+        "nama hasil panen": "sayuran bawang putih",
+        "kode Pengiriman": [
+            "Semarang : 50001-H",
+            "Slatiga: 50002-H"
+        ],
+        "sayuran dikirim": []
+    },
+    {
+        "nama hasil panen": "sayuran brokoli",
+        "kode Pengiriman": [
+            "Yogjakarta : 40004-AB"
+        ],
+        "sayuran dikirim": []
+    },
+    {
+        "nama hasil panen": "sayuran jagung",
+        "kode Pengiriman": [
+            "Lamongan : 50001-S",
+            "Jombang : 50002-S",
+            "Mojokerto : 50003-S"
+        ],
+        "sayuran dikirim": []
+    }
+]
